@@ -1,24 +1,25 @@
-# README
+# DRIGUES
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Personal website/portfolio
 
-Things you may want to cover:
+Hi, I'm Thiago Rodrigues and I'm a UX/UI Designer and Full Stack Web Developer
 
-* Ruby version
+I work with:
 
-* System dependencies
+* Ruby on Rails
 
-* Configuration
+* Python (as script)
 
-* Database creation
+* PHP
 
-* Database initialization
+* MySql / PostgreSql / MongoDB
 
-* How to run the test suite
+* HTML / CSS 3 / SASS
 
-* Services (job queues, cache servers, search engines, etc.)
+* Vue.Js / React.Js / JavaScript
 
-* Deployment instructions
+* Git / Deployment / Heroku / AWS
 
-* ...
+* Prototype / Testing / Data Analysis
+
+thg.drgs@gmail.com
