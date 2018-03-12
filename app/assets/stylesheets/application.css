@@ -13,3 +13,40 @@
  *= require_tree .
  *= require_self
  */
+@import url('https://fonts.googleapis.com/css?family=Paytone+One|Roboto:400,400i');
+
+body {
+  background: #ecf0f1;
+  padding: 15px 30px;
+  box-sizing: border-box;
+}
+h1 {
+  color: #2c3e50;
+  font-family: 'Paytone One', sans-serif;
+  font-size: 2.6em;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #2c3e50;
+}
+i {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+}
+a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  background: #2c3e50;
+  margin-right: 10px;
+  padding: 8px 16px;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  top: 15px;
+  border-radius: 4px;
+}
+a:hover {
+  background: #34587b;
+}
